@@ -1,5 +1,15 @@
 # Kubernetes (k8s)
 
+... EN DESARROLLO ...
+
+<!-- markdownlint-disable MD033 -->
+<p align="center">
+  <a href="https://alxgcrz.com" target="_blank">
+    <img src="https://alxgcrz.com/assets/asset_06_v1.png" alt="En desarrollo" title="En desarrollo" width="40%">
+  </a>
+</p>
+<!-- markdownlint-enable MD033 -->
+
 ## Orchestrating Systems with Kubernetes
 
 Hace años, la mayoría de las aplicaciones de software eran grandes monolitos, que se ejecutaban como un solo proceso o como una pequeña cantidad de procesos distribuidos en un puñado de servidores. Estos sistemas heredados todavía están muy difundidos en la actualidad. Tienen ciclos de liberación lentos y se actualizan con poca frecuencia. Al final de cada ciclo de lanzamiento, los desarrolladores empaquetan todo el sistema y se lo entregan al equipo de operaciones, quien luego lo implementa y lo supervisa. En caso de fallas de hardware, el equipo de operaciones lo migra manualmente a los servidores en buen estado restantes.
@@ -27,6 +37,8 @@ Debido a que cada microservicio es un proceso independiente con una API externa 
 Uno de los inconvenientes de los microservicios es que su número puede ser elevado y por tanto se complica gestionar su número. Además, cada microservicio puede necesitar diferentes versiones de librerías.
 
 Para solucionar estos problemas tenemos la tecnología de contenederos, con Docker, y una forma de gestionar u orquestarlos, con Kubernetes. Gracias a Docker, podemos crear microservicios aislados y autocontenidos con sus propias dependencias, librerías y componentes, de forma que no interfieran entre sí y con un bajo consumo de recursos, a diferencia de las Máquinas Virtuales (VM). Esto permite tener varios contenedores en una misma máquina anfitrión.
+
+---
 
 ## Enlaces de interés
 
