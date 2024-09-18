@@ -1,6 +1,6 @@
 # Kubernetes (k8s)
 
-... EN DESARROLLO ...
+> :warning: **DOCUMENTO EN DESARROLLO** :warning:
 
 ## Orchestrating Systems with Kubernetes
 
@@ -34,7 +34,9 @@ Para solucionar estos problemas tenemos la tecnología de contenederos, con Dock
 
 ## Referencias
 
-- <https://kubernetes.io/docs/home/>
+- <https://kubernetes.io/>
+- <https://cheatsheets.zip/kubernetes>
+- <https://roadmap.sh/kubernetes>
 - <https://github.com/collabnix/dockerlabs/blob/master/kubernetes/cheatsheets/kubectl.md>
 
 ## Licencia
