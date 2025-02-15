@@ -14,7 +14,7 @@ Pero con un mayor número de componentes desplegables y centros de datos cada ve
 
 Kubernetes abstrae la infraestructura de hardware y expone todo su centro de datos como un enorme recurso computacional. Le permite implementar y ejecutar sus componentes de software sin tener que conocer los servidores reales que se encuentran debajo. Al implementar una aplicación de múltiples componentes a través de Kubernetes, selecciona un servidor para cada componente, lo implementa y le permite encontrar y comunicarse fácilmente con todos los demás componentes de su aplicación.
 
-### Monolithic apps versus microservices
+## Monolithic apps versus microservices
 
 Las aplicaciones monolíticas consisten en componentes que están todos estrechamente acoplados y que deben desarrollarse, implementarse y gestionarse como una entidad, porque todos se ejecutan como un solo proceso de sistema operativo. Los cambios en una parte de la aplicación requieren una redistribución de toda la aplicación y, con el tiempo, la falta de límites entre las partes da como resultado un aumento de la complejidad y un deterioro consecuente de la calidad de todo el sistema debido al crecimiento ilimitado de las dependencias entre estas partes.
 
@@ -32,9 +32,16 @@ Para solucionar estos problemas tenemos la tecnología de contenederos, con Dock
 
 ---
 
-## Referencias
+## Enlaces
 
-- <https://kubernetes.io/>
+### Kubernetes
+
+- 🔸 [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
+- [Kubernetes for workstations and appliances](https://microk8s.io/)
+
+### Kubernetes - Learning
+
+- [Learning-K8S - Keep it simple](https://github.com/knrt10/kubernetes-basicLearning)
 - <https://cheatsheets.zip/kubernetes>
 - <https://roadmap.sh/kubernetes>
 - <https://github.com/collabnix/dockerlabs/blob/master/kubernetes/cheatsheets/kubectl.md>
